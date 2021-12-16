@@ -1,6 +1,7 @@
-### Hi there 👋
-
-test
+> People said I should accept the world.
+> Bullshit! I don't accept the world.
+>
+> -- <cite>Richard M. Stallman</cite>
 
 <!--
 **vaporup/vaporup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
