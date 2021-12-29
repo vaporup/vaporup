@@ -1,4 +1,4 @@
-> People said I should accept the world.
+> People said I should accept the world.  
 > Bullshit! I don't accept the world.
 >
 > -- <cite>Richard M. Stallman</cite>
