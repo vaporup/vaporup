@@ -3,9 +3,6 @@
 > 
 >-- Richard M. Stallman
 
-<h1 align="center">Sven Wick</h1>
-<h3 align="center">A sysadmin by nature</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaporup&label=Profile%20views&color=0e75b6&style=flat" alt="vaporup" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaporup" alt="vaporup" /></a> </p>
