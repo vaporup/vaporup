@@ -3,6 +3,8 @@
 > 
 >-- Richard M. Stallman
 
+![](https://www.azquotes.com/picture-quotes/quote-people-said-i-should-accept-the-world-bullshit-i-don-t-accept-the-world-richard-stallman-75-52-41.jpg)
+
 - Working on **[ssh-tools](https://github.com/vaporup/ssh-tools)**
 - Maintaining packages for [Debian](https://qa.debian.org/developer.php?email=sven.wick%40gmx.de) and [other distros](https://repology.org/maintainer/sven.wick%40gmx.de)
 - Learning **[Crystal](https://crystal-lang.org)** and **[Go](https://go.dev)**
