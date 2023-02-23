@@ -1,7 +1,9 @@
->People said I should accept the world.  
->Bullshit! I don't accept the world.  
-> 
->-- Richard M. Stallman
+```
+People said I should accept the world.  
+Bullshit! I don't accept the world.  
+ 
+-- Richard M. Stallman
+```
 
 - Working on **[ssh-tools](https://github.com/vaporup/ssh-tools)**
 - Maintaining packages for [Debian](https://qa.debian.org/developer.php?email=sven.wick%40gmx.de) and [other distros](https://repology.org/maintainer/sven.wick%40gmx.de)
